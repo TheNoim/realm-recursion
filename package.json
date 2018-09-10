@@ -1,0 +1,9 @@
+{
+  "name": "realm-recursion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "realm": "^2.15.3"
+  }
+}
